@@ -1,3 +1,11 @@
+# What's this App?
+
+This is a React App built during a React training to test the acquired knowledge.
+
+The App is a small card game (Pokemon Card Game) that, when starting (or refreshing the screen), creates two "hands" with random cards using Pokemon characters (pre-defined / hard-coded list), each hand with 8 cards, in this process the experience level of each character is sum for each hand and then the winning hand is defined,
+
+When hovering the mouse over each card, the image of the character is slightly enlarged, through a CSS effect.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
